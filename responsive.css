@@ -1,0 +1,57 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .project {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .top-container h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+
+  .project {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .top-container h1 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  .top-container h2 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+
+  .mountain-img {
+    width: 100%;
+  }
+
+  .hijab-img {
+    width: 30%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
